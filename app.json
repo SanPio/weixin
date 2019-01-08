@@ -21,17 +21,20 @@
       {
         "pagePath": "pages/index/index",
         "text": "首页",
-        "iconPath": "images/mingyu.png"
+        "iconPath": "images/mingyu.png",
+        "selectedIconPath": "images/aa.jpg"
       },
       {
         "pagePath": "pages/logs/logs",
         "text": "登录",
-        "iconPath": "images/mingyu.png"
+        "iconPath": "images/mingyu.png",
+        "selectedIconPath": "images/aa.jpg"
       },
       {
         "pagePath": "pages/test/test",
         "text": "测试",
-        "iconPath": "images/mingyu.png"
+        "iconPath": "images/mingyu.png",
+        "selectedIconPath": "images/aa.jpg"
       }
     ],
     "color": "#4fa2fe",
