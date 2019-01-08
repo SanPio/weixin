@@ -1,3 +1,5 @@
-<!--pages/test/test.wxml-->
-<text>pages/test/test.wxml</text>
-<view>test</view>
+
+<text> {{ of }} </text>
+<view>
+  <text> {{ arr[0].name }} </text>
+</view>

@@ -14,7 +14,8 @@
     "backgroundColorTop": "#00f",
     "backgroundColorBottom": "#f00",
     "enablePullDownRefresh": true,
-    "pageOrientation": "auto"
+    "pageOrientation": "auto",
+    "onReachBottomDistance":0
   },
   "tabBar": {
     "list": [
@@ -42,5 +43,11 @@
     "backgroundColor": "#0f0",
     "borderStyle": "black",
     "position": "bottom"
+  },
+  "debug": true,
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
   }
 }
