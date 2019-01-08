@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/test/test"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "小程序DEMO",
+    "navigationBarTextStyle": "white",
+    "navigationStyle": "default",
+    "backgroundColor": "#fff",
+    "backgroundTextStyle": "dark",
+    "backgroundColorTop": "#00f",
+    "backgroundColorBottom": "#f00",
+    "enablePullDownRefresh": true,
+    "pageOrientation": "auto"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/mingyu.png"
+      },
+      {
+        "pagePath": "pages/logs/logs",
+        "text": "登录",
+        "iconPath": "images/mingyu.png"
+      },
+      {
+        "pagePath": "pages/test/test",
+        "text": "测试",
+        "iconPath": "images/mingyu.png"
+      }
+    ],
+    "color": "#4fa2fe",
+    "selectedColor": "#f00",
+    "backgroundColor": "#fff",
+    "borderStyle": "black",
+    "position": "bottom"
+  }
+}
